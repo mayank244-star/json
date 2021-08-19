@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="251" started-at="2021-08-19T10:59:45Z" finished-at="2021-08-19T10:59:45Z">
+  <suite name="Default suite" duration-ms="252" started-at="2021-08-19T11:12:36Z" finished-at="2021-08-19T11:12:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="251" started-at="2021-08-19T10:59:45Z" finished-at="2021-08-19T10:59:45Z">
+    <test name="Default test" duration-ms="252" started-at="2021-08-19T11:12:36Z" finished-at="2021-08-19T11:12:36Z">
       <class name="firstjson.dynamic">
-        <test-method status="PASS" signature="Main()[pri:0, instance:firstjson.dynamic@c300f1]" name="Main" duration-ms="231" started-at="2021-08-19T16:29:45Z" finished-at="2021-08-19T16:29:45Z">
+        <test-method status="PASS" signature="Main()[pri:0, instance:firstjson.dynamic@c300f1]" name="Main" duration-ms="231" started-at="2021-08-19T16:42:36Z" finished-at="2021-08-19T16:42:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Main -->
       </class> <!-- firstjson.dynamic -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
