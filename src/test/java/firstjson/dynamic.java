@@ -17,18 +17,16 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 
-public class new2 {
+public class dynamic {
 	public static void main(String[] args) throws FileNotFoundException 
 	{ 
 
 		try
 		{
 			File status = new File("C:\\Users\\user\\project\\JSON\\JSONExample1.json");
-			if (status.delete())
+			if (status.isFile())
 			{
-				System.out.println("File deleted successfully");
-			}
-			else {
+				
 				BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\user\\project\\JSON\\JSONExample1.json"));
 				String str;
 				while ((str = bufferedReader.readLine()) != null)
@@ -87,7 +85,7 @@ public class new2 {
 			
 			pw.write(m0.toJSONString());
 
-
+System.out.println(m0);
 
 
 			System.out.println("Created");}
