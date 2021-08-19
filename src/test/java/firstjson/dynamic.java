@@ -15,10 +15,12 @@ import com.gargoylesoftware.htmlunit.javascript.host.Map;
 import com.github.javafaker.Faker;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import org.testng.annotations.Test;
 
 
 public class dynamic {
-	public static void main(String[] args) throws FileNotFoundException 
+	@Test
+	public  void Main() throws FileNotFoundException 
 	{ 
 
 		try
