@@ -1,0 +1,28 @@
+{
+"firstName":"Bryana",
+"lastName":"Labadie",
+"mail Id":"Victor.Koepp@gmail.com",
+"UserName":"Victor.Koepp",
+"address":[
+           {"type":"home address",
+            "homeAddress":"57946 Sauer Forges",
+            "city":"Whitemouth",
+            "streetname":"Botsford Plains"},
+           {"state":"New Hampshire",
+             "postalCode":"26668"}
+          ]
+}
+{
+"firstName":"Edwina",
+"lastName":"Ward",
+"mail Id":"Ashtyn.Ratke@gmail.com",
+"UserName":"Ashtyn.Ratke",
+"address":[
+           {"type":"home address",
+            "homeAddress":"507 Stroman Crescent",
+            "city":"Fisherborough",
+             "streetname":"Dina Ridges"},
+             {"state":"Georgia",
+               "postalCode":"82484-3131"}
+          ]
+}
