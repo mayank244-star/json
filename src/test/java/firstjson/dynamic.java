@@ -29,7 +29,7 @@ public class new2 {
 				System.out.println("File deleted successfully");
 			}
 			else {
-				BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\user\\project\\\\JSON\\JSONExample1.json"));
+				BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\user\\project\\JSON\\JSONExample1.json"));
 				String str;
 				while ((str = bufferedReader.readLine()) != null)
 				{
