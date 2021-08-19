@@ -46,9 +46,9 @@ public class dynamic {
 		PrintWriter pw = new PrintWriter("C:\\Users\\user\\project\\JSON\\JSONExample1.json");
 		//LinkedHashMap m0 = new LinkedHashMap();
 		System.out.println("Enter the number of rows you want to enter");
-      	Scanner sc = new Scanner(System.in);
-      	int n = sc.nextInt();
-		for(int i=1;i<=n;i++) {
+      	//Scanner sc = new Scanner(System.in);
+      	//int n = sc.nextInt();
+		for(int i=1;i<=3;i++) {
 		JSONObject m0 = new JSONObject();  
 		//jo.put("description ", "");
 		//jo.put("Student ", "");
